@@ -33,11 +33,4 @@ Applied machine learning for materials science, biomedical data analysis, and im
 - PCA, HOG, UMAP, autoencoders, and VAEs
 - Model evaluation with accuracy, F1-score, RMSE, R2, confusion matrices, and error analysis
 
-## Suggested LinkedIn Use
 
-Use the two strongest reports as LinkedIn project attachments:
-
-- `Cancer_Type_Classification_TCGA_Report.pdf`
-- `Ti64_Microstructure_Classification_Report.pdf`
-
-Use the notebooks if uploading this folder to GitHub.
